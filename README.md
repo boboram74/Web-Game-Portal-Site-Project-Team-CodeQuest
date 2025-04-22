@@ -68,7 +68,7 @@ https://www.erdcloud.com/d/9HCe4GSjjeHXT8iHu
     - 회원정보 수정 완료 후 forward 를 jsp가 아닌 Controller의 URL을 입력하여 마이페이지의 데이터를 재 세팅 
 - 간편 가입 유저의 패스워드 재설정
     - 패스워드가 NULL인 유저만 조회하는 새 SQL 쿼리르 만들어 재설정시 간편가입 유저가 재설정하는지 비교하는 로직 추가
-- Gmail STMP 이용하여 이메일 전송하기
+- Gmail SMTP 이용하여 이메일 전송하기
     - [gmail 보내기](https://velog.io/@yewo2nn16/Email-이메일-전송하기with-첨부파일)
 - AWS EC2에 배포하기
     - [서버 배포하기](https://velog.io/@shawnhansh/AWS-EC2에-배포하기)
